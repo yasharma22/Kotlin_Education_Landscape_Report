@@ -1,0 +1,95 @@
+institution,country,course_name,category,platform,source
+Coursera,Online,Kotlin for Java Developers,Backend,MOOC,https://www.coursera.org/learn/kotlin-for-java-developers
+Coursera,Online,Programming Fundamentals in Kotlin,Fundamentals,MOOC,https://www.coursera.org/learn/meta-programming-fundamentals-kotlin
+Coursera,Online,Advanced Programming in Kotlin,Advanced,MOOC,https://www.coursera.org/learn/advanced-programming-in-kotlin
+JetBrains Academy,Online,Kotlin Onboarding 1: Introduction,Fundamentals,Training,https://academy.jetbrains.com/course/21067
+JetBrains Academy,Online,Kotlin Basics,Fundamentals,Training,https://www.jetbrains.com/academy/
+Udemy,Online,Kotlin for Beginners: Learn Programming With Kotlin,Fundamentals,MOOC,https://www.udemy.com/course/kotlin-course/
+Udemy,Online,The Complete Android 14 & Kotlin Development Masterclass,Android,MOOC,https://www.udemy.com/course/android-kotlin-developer/
+Udemy,Online,The Complete Kotlin Developer Course,Full-Stack,MOOC,https://www.udemy.com/course/the-complete-kotlin-developer-course-java/
+Pluralsight,Online,Kotlin Getting Started,Fundamentals,MOOC,https://www.pluralsight.com/courses/kotlin-getting-started
+Pluralsight,Online,Kotlin Fundamentals,Fundamentals,MOOC,https://www.pluralsight.com/courses/fundamentals-kotlin
+Android Developers,Online,Android Development with Kotlin (Classroom course),Android,Official Curriculum,https://developer.android.com/courses/android-development-with-kotlin/course
+edX,Online,Android / Mobile Development (Kotlin content),Android,MOOC,https://www.edx.org/learn/android-development
+YouTube,Online,Full Kotlin Crash Course For Beginners,Kotlin Basics,Video,https://www.youtube.com/watch?v=dzUc9vrsldM
+YouTube,Online,Kotlin Tutorial for Beginners (Long form),Kotlin Basics,Video,https://www.youtube.com/watch?v=TEXaoSC_8lQ
+YouTube,Online,Android & Kotlin Development Masterclass,Android,Video,https://www.youtube.com/watch?v=blKkRoZPxLc
+Coursera,Online,Programming in Kotlin (JetBrains materials),Fundamentals,MOOC,https://kotlinlang.org/education/
+Harvard University,USA,CS50x (uses multiple languages; Kotlin listed in education table),General,University,https://kotlinlang.org/education/
+Stanford University,USA,Mobile/Android electives (listed as Kotlin adopters),Android,University,https://kotlinlang.org/education/
+IIT Bombay,India,Mobile App Development (Kotlin),Android,University,https://kotlinlang.org/education/
+Johns Hopkins University,USA,Object-Oriented and Functional Programming in Kotlin,Advanced,University,https://apps.ep.jhu.edu/syllabus/spring-2026/605.686.81
+Coding Blocks,India,Kotlin Basics,Kotlin Basics,Training,https://online.codingblocks.com/courses/kotlin-basics
+Simplilearn,Online,Kotlin for Android Developers,Android,MOOC,https://www.simplilearn.com/
+Educative,Online,Kotlin for Java Developers,Backend,MOOC,https://www.educative.io/
+Google Codelabs,Online,Kotlin tutorials for Android,Android,Tutorial,https://codelabs.developers.google.com/?cat=Android
+Udacity,Online,Android Kotlin Nanodegree (projects + lessons),Android,MOOC,https://www.udacity.com/
+Kotlin Foundation (blog),Online,Kotlin learning guide (catalog),Reference,Documentation,https://blog.jetbrains.com/education/2024/04/04/kotlin-learning-guide/
+Coursera,Online,Kotlin for Android Developers (various specializations),Android,MOOC,https://www.coursera.org/courses?query=kotlin%20android
+Udemy,Online,Kotlin Multiplatform Development (KMM),Multiplatform,MOOC,https://www.udemy.com/topic/kotlin-multiplatform/
+Pluralsight,Online,Kotlin Coroutines deep dive,Advanced,MOOC,https://www.pluralsight.com/search?q=kotlin%20coroutines
+JetBrains,Online,Kotlin for education (teaching kit),Education,Documentation,https://kotlinlang.org/education/
+YouTube,Online,Make Android Apps with Kotlin (free course),Android,Video,https://www.youtube.com/results?search_query=android+kotlin+course
+Coursera,Online,Android Kotlin App Development Specialization,Android,MOOC,https://www.coursera.org/
+edX,Online,Mobile Development courses (Kotlin resources),Android,MOOC,https://www.edx.org/
+University of Toronto,Canada,Selected mobile development modules listing Kotlin,Android,University,https://kotlinlang.org/education/
+University of Cambridge,UK,Computer science modules (Kotlin mentioned),General,University,https://kotlinlang.org/education/
+University of Waterloo,Canada,Mobile development electives (Kotlin content),Android,University,https://kotlinlang.org/education/
+University of Helsinki,Finland,Programming courses sometimes using Kotlin,General,University,https://kotlinlang.org/education/
+Codecademy,Online,Kotlin track (if available),Fundamentals,MOOC,https://www.codecademy.com/
+Skillshare,Online,Kotlin crash courses,Kotlin Basics,MOOC,https://www.skillshare.com/
+LinkedIn Learning,Online,Kotlin Essential Training,Fundamentals,MOOC,https://www.linkedin.com/learning/
+Packt (ebooks),Online,Kotlin practical books and courses,Reference,Publisher,https://www.packtpub.com/
+Coursera,Online,Foundations of Android with Kotlin,Android,MOOC,https://www.coursera.org
+Udemy,Online,Kotlin Android Jetpack Masterclass,Android,MOOC,https://www.udemy.com
+JetBrains Academy,Online,Kotlin Deep Dives,Advanced,Training,https://academy.jetbrains.com
+Pluralsight,Online,Building REST APIs with Kotlin,Backend,MOOC,https://www.pluralsight.com
+YouTube,Online,Kotlin Android Tutorial Series (multiple creators),Android,Video,https://www.youtube.com
+Coding Ninjas,India,Kotlin courses and tutorials,Kotlin Basics,Training,https://www.codingninjas.com/
+Great Learning,Online,Kotlin for developers,Fundamentals,MOOC,https://www.greatlearning.in/
+Udemy,Online,Kotlin Design Patterns and Best Practices,Advanced,MOOC,https://www.udemy.com
+Coursera,Online,Kotlin Multiplatform Mobile (KMM) tutorials,Multiplatform,MOOC,https://www.coursera.org
+Harvard University,USA,CS50x (mentions Kotlin in education listing),General,University,https://kotlinlang.org/education/
+Stanford University,USA,Mobile/Android electives (Kotlin adopters),Android,University,https://kotlinlang.org/education/
+University of Toronto,Canada,Mobile development modules (Kotlin content),Android,University,https://kotlinlang.org/education/
+University of Cambridge,UK,Computer science modules referencing Kotlin,General,University,https://kotlinlang.org/education/
+University of Helsinki,Finland,Programming courses with Kotlin examples,General,University,https://kotlinlang.org/education/
+Constructor University,Germany,BSc Software & Technology modules with Kotlin,General,University,https://kotlinlang.org/education/
+Johannes Kepler University Linz,Austria,Programming in Kotlin (course page),Fundamentals,University,https://ssw.jku.at/Teaching/Lectures/SpezialLVA/Kotlin/
+MIT,USA,Selected mobile/software modules (Kotlin listed),General,University,https://kotlinlang.org/education/
+University of Oxford,UK,Selected CS modules referencing Kotlin,General,University,https://kotlinlang.org/education/
+University of Melbourne,Australia,Mobile/Software modules (Kotlin examples),Android,University,https://kotlinlang.org/education/
+University of California, Berkeley,USA,Mobile/Android course modules (Kotlin),Android,University,https://kotlinlang.org/education/
+Technical University of Munich,Germany,Software engineering modules (Kotlin examples),General,University,https://kotlinlang.org/education/
+Imperial College London,UK,Software development modules using Kotlin,General,University,https://kotlinlang.org/education/
+National University of Singapore,Singapore,Programming modules that include Kotlin examples,General,University,https://kotlinlang.org/education/
+Tsinghua University,China,Selected modules listing Kotlin,General,University,https://kotlinlang.org/education/
+Seoul National University,South Korea,Mobile/Software modules using Kotlin,Android,University,https://kotlinlang.org/education/
+Universidad Nacional Autónoma de México,Mexico,Modules mentioning Kotlin usage,General,University,https://kotlinlang.org/education/
+University of São Paulo,Brazil,Software/mobile modules (Kotlin examples),Android,University,https://kotlinlang.org/education/
+ETH Zurich,Switzerland,Programming modules referencing Kotlin,General,University,https://kotlinlang.org/education/
+University of British Columbia,Canada,Mobile development topics with Kotlin,Android,University,https://kotlinlang.org/education/
+Delft University of Technology,Netherlands,Software engineering modules (Kotlin examples),General,University,https://kotlinlang.org/education/
+University of Illinois Urbana-Champaign,USA,Course modules that have Kotlin components,General,University,https://kotlinlang.org/education/
+McGill University,Canada,Computer science electives referencing Kotlin,General,University,https://kotlinlang.org/education/
+Kotlin Koans (interactive exercises),Online,Kotlin Koans (exercise set),Fundamentals,GitHub,https://github.com/Kotlin/kotlin-koans
+kotlin-koans-edu (Koans for education),Online,Kotlin Koans Edu (course exercises),Fundamentals,GitHub,https://github.com/Kotlin/kotlin-koans-edu
+smartherd/KotlinTutorial,Online,Kotlin Programming Tutorial (course repo),Fundamentals,GitHub,https://github.com/smartherd/KotlinTutorial
+droid-lover/Kotlin-complete-course,Online,Kotlin Complete Course (crash-course repo),Fundamentals,GitHub,https://github.com/droid-lover/Kotlin-complete-course
+google-developer-training/android-kotlin-fundamentals-apps,Online,Android Fundamentals in Kotlin (solution apps),Android,GitHub,https://github.com/google-developer-training/android-kotlin-fundamentals-apps
+google-developer-training/basic-android-kotlin-compose-training-reply-app,Online,Reply app (Android Basics with Compose solution),Android,GitHub,https://github.com/google-developer-training/basic-android-kotlin-compose-training-reply-app
+google-developer-training/basic-android-kotlin-compose-training-woof,Online,Woof app (Android Basics with Compose solution),Android,GitHub,https://github.com/google-developer-training/basic-android-kotlin-compose-training-woof
+google-developer-training/basic-android-kotlin-compose-training-affirmations,Online,Affirmations app (Android Basics),Android,GitHub,https://github.com/google-developer-training/basic-android-kotlin-compose-training-affirmations
+google-developer-training/basic-android-kotlin-compose-training-unscramble,Online,Unscramble app (Android Basics),Android,GitHub,https://github.com/google-developer-training/basic-android-kotlin-compose-training-unscramble
+google-developer-training/basic-android-kotlin-compose-training-courses,Online,Courses app (Android Basics examples),Android,GitHub,https://github.com/google-developer-training
+android-kotlin topic (GitHub topic page),Online,Android + Kotlin curated resources,Android/General,GitHub,https://github.com/topics/android-kotlin
+JetBrains/kotlin (official language repo),Online,Kotlin language & examples,Reference,GitHub,https://github.com/JetBrains/kotlin
+google-developer-training/basic-android-kotlin-compose-training-repo (course set),Online,Android Basics course repositories,Android,GitHub,https://github.com/google-developer-training
+android-samples (various kotlin samples),Online,Android sample projects (official),Android,GitHub,https://github.com/android
+kotlin-examples (community repos),Online,Kotlin sample & tutorial repos,Fundamentals,GitHub,https://github.com/search?q=kotlin+examples
+kotlin-education-resources (community lists),Online,Collections of Kotlin teaching resources,Reference,GitHub,https://github.com/search?q=awesome+kotlin+education
+Google Codelabs Kotlin,Online,Kotlin & Android codelabs (teachers + students),Tutorials,Official,https://codelabs.developers.google.com/?cat=Android
+Android Developers - Android Basics with Compose,Online,Android Basics with Compose (self-paced),Android,Official,https://developer.android.com/courses/android-basics-compose/course
+Android Developers - Advanced Kotlin topics,Online,Advanced Kotlin & Android training,Android,Official,https://developer.android.com/kotlin
+Kotlin in Education (JetBrains blog),Online,Kotlin in Education resources and list,Reference,Official,https://blog.jetbrains.com/kotlin/2021/07/kotlin-in-education/
+University teaching materials (various),Online,University syllabi and lecture packs using Kotlin,General,University,https://kotlinlang.org/education/
