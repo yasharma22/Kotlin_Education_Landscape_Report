@@ -1,0 +1,409 @@
+institution,country,course_name,category,platform,source,lat,lng
+Harvard University,US,CS50x Introduction to Computer Science,Software Engineering,University,https://kotlinlang.org/education/courses/,42.3576808,-71.1288621
+University of Cambridge,UK,Kotlin: Essential Training,Kotlin,University,https://kotlinlang.org/education/courses/,52.205356,-0.1109793
+Stanford University,US,CS194A: Android Programming Workshop,Android,University,https://kotlinlang.org/education/courses/,37.425571,-122.167447
+Imperial College London,UK,40009 Computing Practical 1,Software Engineering,University,https://kotlinlang.org/education/courses/,51.605515,-0.337587
+Yale University,US,CPSC 365: Algorithms,Software Engineering,University,https://kotlinlang.org/education/courses/,41.31787801861025,-72.92181217818667
+University of Chicago,US,MPCS 51132. Full Stack Software Engineering,Software Engineering,University,https://kotlinlang.org/education/courses/,42.14880982,-87.58542941
+University of Pennsylvania,US,CIS 1952 Android Programming,Android,University,https://kotlinlang.org/education/courses/,39.966627,-75.178587
+Columbia University,US,ELEN 4901 MOBILE APP DEVELOPMENT ANDROID,Android,University,https://kotlinlang.org/education/courses/,40.8076897655188,-73.96257270377104
+Johns Hopkins University,US,605.603 - Object-Oriented and Functional Programming in Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,39.297268,-76.594242
+National University of Singapore,Singapore,CS2030S Programming Methodology II,Software Engineering,University,https://kotlinlang.org/education/courses/,1.29685712,103.7763832
+Cornell University,US,CS 4120/4121/5120/5121 : Introduction to Compilers,Software Engineering,University,https://kotlinlang.org/education/courses/,42.45359958,-76.47345979
+University of Toronto,Canada,ECE 1778: Creative Applications for Mobile Devices,Mobile Development,University,https://kotlinlang.org/education/courses/,43.663649958557436,-79.39584876128413
+"University of California, Los Angeles",US,Computer Science 131. Programming Languages,Software Engineering,University,https://kotlinlang.org/education/courses/,33.770015,-117.980202
+University of Michigan-Ann Arbor,US,EECS 441 Mobile App Development for Entrepreneurs,Mobile Development,University,https://kotlinlang.org/education/courses/,42.27884877,-83.73793244
+Duke University,US,Complete Guide to Android Development with Kotlin for Beginners,Android,University,https://kotlinlang.org/education/courses/,36.00161672463381,-78.93820714634533
+Northwestern University,US,Hello Kotlin: Android Bootcamp with App Factory,Android,University,https://kotlinlang.org/education/courses/,42.05665055495376,-87.67525627486819
+University of Washington,US,INFO 448 Android Mobile Development,Android,University,https://kotlinlang.org/education/courses/,47.601109,-122.303272
+Carnegie Mellon University,US,67-443 Mobile Application Design and Development,Mobile Development,University,https://kotlinlang.org/education/courses/,40.44336597,-79.94280699
+University of Edinburgh,UK,Computer Science Large Practical,Software Engineering,University,https://kotlinlang.org/education/courses/,55.951814,-3.207641
+Nanyang Technological University,Singapore,CANdroid® -Apps development for newbies,Android,University,https://kotlinlang.org/education/courses/,1.348502964206701,103.68313469508914
+École Polytechnique Fédérale de Lausanne (EPFL),Switzerland,Lab on app development for tablets and smartphones,Software Engineering,University,https://kotlinlang.org/education/courses/,46.51922547,6.566768326
+"University of California, San Diego",US,CSE-41336 Introduction to Mobile App Development,Mobile Development,University,https://kotlinlang.org/education/courses/,32.8800604,-117.2340135
+University of Hong Kong,China,COMP4801 Final Year Project,Software Engineering,University,https://kotlinlang.org/education/courses/,22.283297559655196,114.13652990893307
+Georgia Institute of Technology (Georgia Tech),US,Mastering Android Development,Android,University,https://kotlinlang.org/education/courses/,33.77580505179301,-84.3962742752847
+King’s College London,UK,6CCS3CFL Compilers And Formal Languages,Software Engineering,University,https://kotlinlang.org/education/courses/,53.15052782,0.1692982392
+University of Texas at Austin,US,CS 371M Mobile Computing (Android Programming),Android,University,https://kotlinlang.org/education/courses/,30.244396,-97.612412
+Technical University of Munich,Germany,Bachelor's Practical course - Kotlin (IN0012),Kotlin,University,https://kotlinlang.org/education/courses/,48.137187,11.575691
+University of Illinois at Urbana-Champaign,US,CS 124 An Introduction to Computer Science,Software Engineering,University,https://kotlinlang.org/education/courses/,40.039296,-88.277982
+KU Leuven,Belgium,App Development,Software Engineering,University,https://kotlinlang.org/education/courses/,50.87825954,4.699737484
+Heidelberg University,Germany,Einfuhrung in die Programmierung mit Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,49.4107995818945,8.706575754397942
+The Chinese University of Hong Kong,China,CSCI3100 - Software Engineering,Software Engineering,University,https://kotlinlang.org/education/courses/,22.419843173266397,114.20671768010209
+"University of California, Davis - UC Davis",US,ECS 189E: Android and iOS Fundamentals,Android,University,https://kotlinlang.org/education/courses/,38.5382322,-121.7639012
+The Hong Kong University of Science and Technology,China,ISOM3000G Mobile Applications Development for Business,Mobile Development,University,https://kotlinlang.org/education/courses/,22.33833454,114.2677553
+"University of California, Santa Barbara - UC Santa Barbara",US,CS184 - Introduction to Mobile Application Development (using Android),Android,University,https://kotlinlang.org/education/courses/,34.414194,-119.688887
+University of North Carolina at Chapel Hill,US,COMP 523: Software Engineering Laboratory,Software Engineering,University,https://kotlinlang.org/education/courses/,35.9049122,-79.0469134
+University of Southern California,US,CSCI 571: Web Technologies,Software Engineering,University,https://kotlinlang.org/education/courses/,34.02398806133243,-118.28485951097322
+Leiden University,The Netherlands,Concepts of Programming Languages,Software Engineering,University,https://kotlinlang.org/education/courses/,52.1571485,4.485209
+Boston University,US,MET CS 683 Mobile Application Development with Android,Android,University,https://kotlinlang.org/education/courses/,42.35082,-71.113396
+City University of Hong Kong,China,EE5415 Mobile Applications Design and Development,Mobile Development,University,https://kotlinlang.org/education/courses/,22.3366793,114.1724234
+Purdue University West Lafayette,US,CS 353: Principles of Concurrency and Parallelism,Software Engineering,University,https://kotlinlang.org/education/courses/,40.42381971692704,-86.9212053326267
+Hong Kong Polytechnic University,China,EIE3109 Mobile Systems and Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,22.304786030988634,114.17955043961483
+Vanderbilt University,US,CS 891: Concurrent Java Programming in Android,Android,University,https://kotlinlang.org/education/courses/,36.1447034,-86.8026551
+"University of California, Irvine",US,CS221: Information Retrieval,Software Engineering,University,https://kotlinlang.org/education/courses/,33.6429663888197,-117.8416191622677
+Lomonosov Moscow State University,Russia,Программирование на языке Котлин,Software Engineering,University,https://kotlinlang.org/education/courses/,55.7039379,37.5264809
+University of Southampton,UK,COMP6239 Mobile Applications Development,Mobile Development,University,https://kotlinlang.org/education/courses/,50.9351092,-1.3957594
+The Ohio State University,US,CSE 5236: Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,40.00630254001021,-83.02823021730822
+McMaster University,Canada,Computer Science 3MI3 - Principles of Programming Languages,Software Engineering,University,https://kotlinlang.org/education/courses/,43.27883474,-79.91604115
+University of Sheffield,UK,COM6510 Software Development for Mobile Devices,Mobile Development,University,https://kotlinlang.org/education/courses/,53.385337,-1.467389
+Aarhus University,Denmark,CMSC 436: Programming Handheld Systems,Software Engineering,University,https://kotlinlang.org/education/courses/,56.16615366266737,10.20007522600318
+University of Alberta,Canada,EXSM 3956 - Android Development Fundamentals,Android,University,https://kotlinlang.org/education/courses/,53.5232189,-113.5263186
+University of Montreal,Canada,IFT 1155 - Programmation mobile à plateforme libre,Mobile Development,University,https://kotlinlang.org/education/courses/,45.5056156,-73.61375919999999
+University of Maryland,US,CMSC 436: Programming Handheld Systems,Software Engineering,University,https://kotlinlang.org/education/courses/,38.978174,-76.928451
+Michigan State University,US,CSE 498 Collaborative Design,Software Engineering,University,https://kotlinlang.org/education/courses/,42.72617970831825,-84.47918426669823
+Texas A&M University,US,ECEN 489: Mobile Applications with Android,Android,University,https://kotlinlang.org/education/courses/,30.6187558,-96.3386659
+Rice University,US,COMP 322: Fundamentals of Parallel Programming,Software Engineering,University,https://kotlinlang.org/education/courses/,29.71757111,-95.401681
+Technical University of Denmark,Denmark,Advanced Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,55.786159760832845,12.523434170153104
+University of Oslo,Norway,IN2000 – Software Engineering,Software Engineering,University,https://kotlinlang.org/education/courses/,59.9399613,10.7195609
+University of Leeds,UK,COMP3222 Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,53.807488,-1.534502
+University of Florida,US,DIG4634 Wearable and Mobile App Development,Mobile Development,University,https://kotlinlang.org/education/courses/,29.6436325,-82.3549302
+University of Rochester,US,CSC 214-1 Mobile App Development,Mobile Development,University,https://kotlinlang.org/education/courses/,43.128897,-77.628352
+University of Hamburg,Germany,64-866 Masterproject with integrated seminar about Smart Cities,Software Engineering,University,https://kotlinlang.org/education/courses/,53.568337,9.985134
+University of Colorado Boulder,US,ATLS 4120/5120 Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,40.00810694,-105.2645255
+Uppsala University,Sweden,Game Design,Software Engineering,University,https://kotlinlang.org/education/courses/,59.85101363,17.63025606
+Sungkyunkwan University (SKKU),South Korea,Programming Languages & Compilers,Software Engineering,University,https://kotlinlang.org/education/courses/,37.300306,126.970847
+University of Technology Sydney,Australia,41039 Programming 1,Software Engineering,University,https://kotlinlang.org/education/courses/,-33.883056,151.200889
+University of Bologna,Italy,28006 - Foundations of Informatics T-2,Software Engineering,University,https://kotlinlang.org/education/courses/,44.504866,11.345111
+University of Waterloo,Canada,CS349 User Interfaces,Software Engineering,University,https://kotlinlang.org/education/courses/,43.4722854,-80.5448576
+University of Cologne,Germany,Basissysteme der Informationsverarbeitung II,Software Engineering,University,https://kotlinlang.org/education/courses/,50.927054,6.928302
+Dartmouth College,US,CS 65: Smartphone Programming,Software Engineering,University,https://kotlinlang.org/education/courses/,43.702198,-72.289686
+TU Dresden,Germany,FRaMED - Development Of Graphical Editor Product Lines,Software Engineering,University,https://kotlinlang.org/education/courses/,51.049625,13.737891
+University of Virginia,US,CS 4720 Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,38.03371343,-78.50798793
+University of Würzburg,Germany,SS23: Einführung in die Programmierung mit Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,49.787777,9.936111
+Sapienza University of Rome,Italy,1044415 - MOBILE APPLICATIONS AND CLOUD COMPUTING,Mobile Development,University,https://kotlinlang.org/education/courses/,41.902782,12.496366
+Arizona State University,US,CIS265DA Advanced Android Application Development,Android,University,https://kotlinlang.org/education/courses/,33.4242399,-111.9280527
+University of Twente,The Netherlands,Software Security 201600051,Software Engineering,University,https://kotlinlang.org/education/courses/,52.2396538,6.84979
+Ulm University,Germany,Parallele Programmierung,Software Engineering,University,https://kotlinlang.org/education/courses/,48.4633568,9.941576281
+Indiana University,US,Programming,Software Engineering,University,https://kotlinlang.org/education/courses/,39.1653,-86.5264
+University of Notre Dame,US,CSE 40842 – Hackers in the Bazaar,Software Engineering,University,https://kotlinlang.org/education/courses/,41.70573177,-86.23459851
+Aalto University,Finland,Introduction to the Kotlin programming language,Kotlin,University,https://kotlinlang.org/education/courses/,60.18678676,24.82771419
+"University of California, Santa Cruz",US,"Mobile Application Development - Android and iOS, Introduction | CMPR.X421",Android,University,https://kotlinlang.org/education/courses/,36.9741,-122.0308
+Curtin University,Australia,Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,-31.9505,115.8605
+George Washington University,US,CSCI 6116. Advanced Application Development,Software Engineering,University,https://kotlinlang.org/education/courses/,38.89989816,-77.04854556
+University of Illinois at Chicago,US,CS 476 – Programming Language Design,Software Engineering,University,https://kotlinlang.org/education/courses/,41.896139,-87.664073
+Université Libre de Bruxelles,Belgium,INFO-H2001 Programmation orientée objet,Software Engineering,University,https://kotlinlang.org/education/courses/,50.81335591,4.382458231
+University of Luxembourg,Luxembourg,Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,49.50471322,5.948707947
+Moscow Institute of Physics and Technology,Russia,Введение в научное программирование на языке Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,55.9297243,37.4849245
+University of Padua,Italy,IN01122661 - PROGRAMMAZIONE DI SISTEMI EMBEDDED,Software Engineering,University,https://kotlinlang.org/education/courses/,45.4064,11.8768
+Politecnico di Milano,Italy,Sviluppo Android E Reti 5g,Android,University,https://kotlinlang.org/education/courses/,45.61658854,9.172324841
+"Rutgers, the State University of New Jersey",US,16:137:537 Mobile App Development from Concept to Market,Mobile Development,University,https://kotlinlang.org/education/courses/,40.489596,-74.413887
+University of São Paulo,Brazil,MAC0350 - Introdução ao Desenvolvimento de Sistemas de Software,Software Engineering,University,https://kotlinlang.org/education/courses/,-23.5505,-46.6333
+Swinburne University of Technology,Australia,COS 30017 Software Development for Mobile Devices,Mobile Development,University,https://kotlinlang.org/education/courses/,-37.81509892,145.0396412
+Tel Aviv University,Israel,Concepts in Programming Languages,Software Engineering,University,https://kotlinlang.org/education/courses/,32.109584,34.805064
+University of Utah,US,CS 6018 Application System Design,Software Engineering,University,https://kotlinlang.org/education/courses/,40.76763758,-111.8435805
+University of Wollongong,Australia,CSIT242 Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,-34.4208,150.8931
+Beijing Institute of Technology,China,Android programming,Android,University,https://kotlinlang.org/education/courses/,39.96571167,116.3118409
+Griffith University,Australia,Interactive App Development - 2701ICT,Software Engineering,University,https://kotlinlang.org/education/courses/,-27.4698,153.0224
+Johannes Gutenberg University of Mainz,Germany,08.079.10070 Mobile Computing und Web Entwicklung,Mobile Development,University,https://kotlinlang.org/education/courses/,49.908747,8.241823418
+Laval University,Canada,GIF-3101 Informatique mobile et applications,Mobile Development,University,https://kotlinlang.org/education/courses/,46.78456791,-71.27456546
+Linköping University,Sweden,TDDC73 Interaction Programming,Software Engineering,University,https://kotlinlang.org/education/courses/,58.412688,15.639732
+University of Oulu,Finland,521046A Mobile Computing,Mobile Development,University,https://kotlinlang.org/education/courses/,65.05939006,25.46665828
+Qatar University,Qatar,Senior projects,Software Engineering,University,https://kotlinlang.org/education/courses/,25.2708,51.5009
+Queen’s University,Canada,ELEC 498: Computer Engineering Project,Software Engineering,University,https://kotlinlang.org/education/courses/,44.2252795,-76.49514119999999
+Simon Fraser University,Canada,CMPT 415 Special Research Projects,Software Engineering,University,https://kotlinlang.org/education/courses/,49.253432,-122.918241
+Università della Svizzera Italiana,Switzerland,Engineering of Domain Specific Languages,Software Engineering,University,https://kotlinlang.org/education/courses/,46.0107081,8.9581559
+Swansea University,UK,CSC306 - Writing Mobile Apps,Mobile Development,University,https://kotlinlang.org/education/courses/,51.61124386,-3.979609076
+University of Tasmania,Australia,Mobile Application Development KIT305,Mobile Development,University,https://kotlinlang.org/education/courses/,-42.81136204,147.3036807
+Technical University of Darmstadt,Germany,Projektseminar Softwaresysteme,Software Engineering,University,https://kotlinlang.org/education/courses/,49.87538357,8.656359572
+Virginia Polytechnic Institute and State University - Virginia Tech,US,CS3304 Comparative Languages,Software Engineering,University,https://kotlinlang.org/education/courses/,37.22838429999999,-80.42341669999999
+University of Bremen,Germany,Programmiersprachen,Software Engineering,University,https://kotlinlang.org/education/courses/,53.1007,8.8065
+Dalhousie University,Canada,CSCI 5708: Mobile Computing,Mobile Development,University,https://kotlinlang.org/education/courses/,44.63577633,-63.59465872
+Drexel University,US,CS 647: Distributed Systems,Software Engineering,University,https://kotlinlang.org/education/courses/,39.9522,-75.1932
+University of Essex,UK,CE881-7-AU-CO: Mobile and Social Application Programming,Mobile Development,University,https://kotlinlang.org/education/courses/,51.885,0.9023
+University of Innsbruck,Austria,Specialisation Seminar,Software Engineering,University,https://kotlinlang.org/education/courses/,47.262,11.3963
+Montpellier University,France,Développement mobile,Mobile Development,University,https://kotlinlang.org/education/courses/,43.6165335,3.872023118
+Norwegian University of Science and Technology,Norway,PROG2006 - Advanced Programming,Software Engineering,University,https://kotlinlang.org/education/courses/,63.419499,10.3998884
+University of Rome II – Tor Vergata,Italy,Mobile programming,Mobile Development,University,https://kotlinlang.org/education/courses/,41.85380789,12.62772133
+Stellenbosch University,South Africa,Computer Science 771: Honors Project,Software Engineering,University,https://kotlinlang.org/education/courses/,-33.93260304,18.86477959
+University of Tartu,Estonia,Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,58.370076,26.728509
+University of Turku,Finland,Käyttöliittymät,Software Engineering,University,https://kotlinlang.org/education/courses/,60.45433249,22.28502103
+University College Cork,Ireland,CS4092 Special Topics in Computing,Software Engineering,University,https://kotlinlang.org/education/courses/,51.89361839,-8.49144823
+Autonomous University of Madrid,Spain,18771 - DESARROLLO DE APLICACIONES PARA DISPOSITIVOS MÓVILES,Software Engineering,University,https://kotlinlang.org/education/courses/,40.54686132,-3.694941261
+University of Bayreuth,Germany,INF 225: Advanced Software Engineering,Software Engineering,University,https://kotlinlang.org/education/courses/,49.9481,11.5786
+University of Connecticut,US,CSE 3200 Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,41.8077414,-72.2539805
+University of Georgia,US,CSCI 4060/6060 Mobile Software Development,Mobile Development,University,https://kotlinlang.org/education/courses/,33.9480053,-83.3773221
+Hasselt University,Belgium,App Development,Software Engineering,University,https://kotlinlang.org/education/courses/,50.93357562,5.342591598
+Illinois Institute of Technology - Illinois Tech,US,CS425 - Database Organization,Software Engineering,University,https://kotlinlang.org/education/courses/,41.8339,-87.6278
+Iowa State University,US,COM S 430: CONCURRENT PROGRAMMING IN PRACTICE,Software Engineering,University,https://kotlinlang.org/education/courses/,42.025326,-93.633792
+Peter the Great St Petersburg Polytechnic University,Russia,Введение в язык Котлин,Software Engineering,University,https://kotlinlang.org/education/courses/,60.0076262,30.3710067
+Sabancı University,Turkey,IT 535 Wireless and Mobile Programming,Mobile Development,University,https://kotlinlang.org/education/courses/,40.90095117,29.040422
+Technion Israel Institute of Technology,Israel,02360351 Distributed Systems,Software Engineering,University,https://kotlinlang.org/education/courses/,32.776831,35.022474
+Temple University,US,CIS 3296 Software Design,Software Engineering,University,https://kotlinlang.org/education/courses/,39.9805942,-75.1557376
+Bauman Moscow State Technical University,Russia,Разработка Android приложений на Kotlin,Android,University,https://kotlinlang.org/education/courses/,55.76610759,37.68569704
+University of Central Florida,US,COP 4331C - Processes for Object-Oriented Software Development,Software Engineering,University,https://kotlinlang.org/education/courses/,28.601,-81.2001
+Charles University in Prague,Czech Republic,Developing Applications for Mobile Devices,Mobile Development,University,https://kotlinlang.org/education/courses/,50.0872276,14.4234889
+Constructor University - Jacobs University,Germany,Kotlin and Kotlin Ecosystem,Kotlin,University,https://kotlinlang.org/education/courses/,53.16705078,8.651976034
+University of Genoa,Italy,PROGRAMMAZIONE MOBILE,Mobile Development,University,https://kotlinlang.org/education/courses/,44.4056,8.933
+George Mason University,US,SWE 642 Software Engineering for the World Wide Web,Software Engineering,University,https://kotlinlang.org/education/courses/,38.83184337,-77.3117941
+University of Guelph,Canada,CIS*4030 Mobile Computing,Mobile Development,University,https://kotlinlang.org/education/courses/,43.540798,-80.248885
+HSE University,Russia,Язык Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,55.7613485,37.6307561
+IMT Atlantique,France,Introduction au développement Android,Android,University,https://kotlinlang.org/education/courses/,48.3905,-4.4861
+Iran University of Science and Technology,Iran,Fundamentals of Computer Programming,Software Engineering,University,https://kotlinlang.org/education/courses/,35.79572344,51.50211724
+Johannes Kepler University of Linz,Austria,Programming in Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,48.33741505,14.3164432
+King Saud University,Saudi Arabia,IS324: Modern Application Development,Software Engineering,University,https://kotlinlang.org/education/courses/,24.7136,46.6753
+Missouri University of Science and Technology,US,Mobile App Development (CR-CP-002),Mobile Development,University,https://kotlinlang.org/education/courses/,37.9551,-91.775
+University of Missouri,US,INFOTC 4410 - Android App Development I,Android,University,https://kotlinlang.org/education/courses/,38.9403808,-92.32773750000001
+University of Modena and Reggio Emilia,Italy,Programmazione Mobile,Mobile Development,University,https://kotlinlang.org/education/courses/,44.625271,10.913336
+National Research Nuclear University MEPhI,Russia,Kotlin FullStack Developer,Kotlin,University,https://kotlinlang.org/education/courses/,55.6502051,37.6643098
+National Yang Ming Chiao Tung University,Taiwan,Android程式設計 (使用 Kotlin),Android,University,https://kotlinlang.org/education/courses/,24.7914,120.9675
+New Jersey Institute of Technology,US,CS 388-002: Android Application Development,Android,University,https://kotlinlang.org/education/courses/,40.74250875,-74.17926886
+University of Pisa,Italy,MOBILE AND SOCIAL SENSING SYSTEMS,Mobile Development,University,https://kotlinlang.org/education/courses/,43.71683203,10.39967469
+University of Plymouth,UK,Games Development,Software Engineering,University,https://kotlinlang.org/education/courses/,50.3755,-4.1427
+Polytechnic University of Turin,Italy,Mobile application development,Mobile Development,University,https://kotlinlang.org/education/courses/,45.06257121,7.662374674
+Pontificia Universidad Católica de Chile,Chile,Desarrollo de aplicaciones móviles,Software Engineering,University,https://kotlinlang.org/education/courses/,-33.4519,-70.6483
+University of South Carolina-Columbia,US,CSCE 490/492 Capstone Computing Project,Software Engineering,University,https://kotlinlang.org/education/courses/,33.99393538,-81.02995079
+TU Dortmund University,Germany,Automated Detection of Software Vulnerabilities via Static Program Analysis,Software Engineering,University,https://kotlinlang.org/education/courses/,51.4875,7.4664
+University of Turin,Italy,Mobile Device Programming,Mobile Development,University,https://kotlinlang.org/education/courses/,45.06942799999999,7.6889006
+Umeå University,Sweden,Utveckling av mobila applikationer,Software Engineering,University,https://kotlinlang.org/education/courses/,63.82032178,20.30582161
+University of Vaasa,Finland,ICAT3130 Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,63.0941,21.6159
+Victoria University,Australia,NIT3213 MOBILE APPLICATION DEVELOPMENT,Mobile Development,University,https://kotlinlang.org/education/courses/,-37.78180158,144.9000635
+Aberystwyth University,UK,CS31620 Mobile Development with Android,Android,University,https://kotlinlang.org/education/courses/,52.410995,-4.075387
+University of Alaska Fairbanks,US,CS331 Programming Languages,Software Engineering,University,https://kotlinlang.org/education/courses/,64.85820048,-147.8333731
+American University of Beirut,Lebanon,CMPS 279. Mobile Applications Development,Mobile Development,University,https://kotlinlang.org/education/courses/,33.8842,35.5137
+Anna University,India,CCS332 APP DEVELOPMENT,Software Engineering,University,https://kotlinlang.org/education/courses/,13.01141148,80.23542885
+University of Canterbury,New Zealand,SENG303 - Mobile Application Design and Development,Mobile Development,University,https://kotlinlang.org/education/courses/,-43.518575,172.638088
+Colorado School of Mines,US,CSCI 448 - Mobile Application Development (Android),Android,University,https://kotlinlang.org/education/courses/,39.665194,-105.277682
+Clark University,US,CSCI 245 - Mobile Software Development,Mobile Development,University,https://kotlinlang.org/education/courses/,42.2518712,-71.8259936
+Hofstra University,US,CSC123/252: Programming Languages,Software Engineering,University,https://kotlinlang.org/education/courses/,40.777195,-73.726784
+University of Perugia,Italy,GP004142 COMPUTER PROGRAMMING 3 / Informatics,Software Engineering,University,https://kotlinlang.org/education/courses/,43.104939,12.356605
+University of Salerno,Italy,Mobile Programming,Mobile Development,University,https://kotlinlang.org/education/courses/,40.771806,14.7974
+Baylor University,US,CSI 4144: Competitive Learning,Software Engineering,University,https://kotlinlang.org/education/courses/,31.5493,-97.1131
+Boğaziçi University,Turkey,CmpE 451 Project Development in Software Engineering,Software Engineering,University,https://kotlinlang.org/education/courses/,41.0902,29.0689
+Chang Gung University,Taiwan,Mobile application development,Mobile Development,University,https://kotlinlang.org/education/courses/,24.9983,121.2266
+University of Houston,US,DIGM 4381 Mobile Application Design,Mobile Development,University,https://kotlinlang.org/education/courses/,29.767392,-95.367289
+ITMO University,Russia,Основы программирования на языке Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,59.9574028,30.3061542
+University of Missouri-St Louis,US,CMP SCI 4020 Introduction to Android Apps: Android Fundamentals,Android,University,https://kotlinlang.org/education/courses/,38.6242,-90.20839
+San Diego State University,US,CS 635 Advanced Object-Oriented Design & Programming,Software Engineering,University,https://kotlinlang.org/education/courses/,32.715711,-117.154614
+Federal University of Minas Gerais,Brazil,PROGRAM ANALYSIS AND OPTIMIZATION – DCC888,Software Engineering,University,https://kotlinlang.org/education/courses/,-19.914452,-43.940122
+University of Greenwich,UK,COMP - 1815 - JVM Programming Languages,Software Engineering,University,https://kotlinlang.org/education/courses/,51.480323,-0.007492
+University of Insubria,Italy,PROGRAMMAZIONE DI DISPOSITIVI MOBILI,Software Engineering,University,https://kotlinlang.org/education/courses/,45.8153,8.8438
+"University of Maryland, Baltimore County",US,CMSC 331 Principles of Programming Languages,Software Engineering,University,https://kotlinlang.org/education/courses/,39.324219,-76.948834
+Saint Petersburg State University,Russia,Основы технологий распределенных реестров,Software Engineering,University,https://kotlinlang.org/education/courses/,59.9418967,30.2967312
+Worcester Polytechnic Institute,US,CS 528: Ubiquitous and Mobile Computing,Mobile Development,University,https://kotlinlang.org/education/courses/,42.2743054,-71.8103258
+Babeş-Bolyai University,Romania,Mobile Applications,Mobile Development,University,https://kotlinlang.org/education/courses/,46.777568,23.593451
+Eastern Mediterranean University,Northern Cyprus,ITEC399 – Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,35.1425986,33.91210924
+University of Texas at El Paso,US,CS 4330/5390 - Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,31.758898,-106.486689
+Budapest University of Technology and Economics,Hungary,Kotlin-Based Software Development,Kotlin,University,https://kotlinlang.org/education/courses/,47.4813297,19.0532947
+Comenius University in Bratislava,Slovakia,1-AIN-472/12: Vývoj mobilných aplikácií,Software Engineering,University,https://kotlinlang.org/education/courses/,48.144126,17.103851
+University of the Sinos Valley,Brazil,Desenvolvimento de Aplicações para Plataformas Móveis,Software Engineering,University,https://kotlinlang.org/education/courses/,-29.769085,-51.141179
+Saint Petersburg Electrotechnical University (LETI),Russia,Разработка Android-приложений на Kotlin,Android,University,https://kotlinlang.org/education/courses/,59.9721944,30.3204669
+Ontario Tech University,Canada,CSCI 4020U Compilers,Software Engineering,University,https://kotlinlang.org/education/courses/,43.901198,-78.852786
+University of Auvergne - Clermont,France,"Licence professionnelle Métiers de l'informatique : conception, développement et test de logiciels",Software Engineering,University,https://kotlinlang.org/education/courses/,45.771132,3.088624
+University of Nevada - Reno,US,Math/CS Numerical methods I 466/666,Software Engineering,University,https://kotlinlang.org/education/courses/,39.552594,-119.806917
+Waterford Institute of Technology,Ireland,Android Programming in Kotlin,Android,University,https://kotlinlang.org/education/courses/,52.24821,-7.064297
+Kristiania University College,Norway,Enterpriseprogrammering 2 (PG6101),Software Engineering,University,https://kotlinlang.org/education/courses/,59.9159993,10.7579211
+"UPC - Peruvian University of Applied Sciences, Peru",Peru,Desarrollo Para Plataforma Móviles,Software Engineering,University,https://kotlinlang.org/education/courses/,-12.1040557,-76.9650907
+Lisbon Superior Engineering Institute (ISEL),Portugal,PROGRAMMING-LEIC,Software Engineering,University,https://kotlinlang.org/education/courses/,38.7561087,-9.1169233
+Lusófona University,Portugal,Computação Móvel,Software Engineering,University,https://kotlinlang.org/education/courses/,38.7580285,-9.1553047
+Omsk State University,Russia,Технологии разработки программного обеспечения,Software Engineering,University,https://kotlinlang.org/education/courses/,55.0278544,73.2627447
+Omsk State Technical University,Russia,Разработка мобильных приложений для Android,Android,University,https://kotlinlang.org/education/courses/,55.0262669,73.2886154
+University of Wisconsin - Parkside,US,App Factory,Software Engineering,University,https://kotlinlang.org/education/courses/,42.6440001,-87.8544535
+Gustavus Adolphus College,US,MCS 178: Introduction to Computer Science II,Software Engineering,University,https://kotlinlang.org/education/courses/,44.3221657,-93.9709658
+University of Wyoming,US,Cosc 4730: Mobile Programming,Mobile Development,University,https://kotlinlang.org/education/courses/,41.477199,-105.635787
+Utah State University,US,CS 1440 - Methods in Computer Science,Software Engineering,University,https://kotlinlang.org/education/courses/,41.735124,-111.834935
+Lakehead University,Canada,COMP 4411 Programming Languages,Software Engineering,University,https://kotlinlang.org/education/courses/,46.4186908,-89.21675395
+"Birkbeck, University of London",UK,Software Design and Programming,Software Engineering,University,https://kotlinlang.org/education/courses/,51.5218563,-0.1303146
+Jordan University of Science and Technology,Jordan,Mobile Phones Apps Development Using Android-Kotlin Language,Android,University,https://kotlinlang.org/education/courses/,32.4950392,35.9912257
+Carleton University,Canada,Mobile App Development,Mobile Development,University,https://kotlinlang.org/education/courses/,45.3875812,-75.69602019999999
+Marche Polytechnic University,Italy,[W001053] - PROGRAMMAZIONE MOBILE,Mobile Development,University,https://kotlinlang.org/education/courses/,43.6173812,13.5139647
+Novosibirsk State University,Russia,Разработка Android приложений на Java и Kotlin,Android,University,https://kotlinlang.org/education/courses/,54.8477462,83.0943884
+Oklahoma State University,US,CS4153: Mobile Applications Development,Mobile Development,University,https://kotlinlang.org/education/courses/,36.1162,-97.0584
+TU Braunschweig,Germany,Programming Languages - Concepts and Applications,Software Engineering,University,https://kotlinlang.org/education/courses/,52.2740421,10.5292639
+"University of the Andes, Colombia",Colombia,ISIS3510 | Construcción de Aplicaciones Móviles,Software Engineering,University,https://kotlinlang.org/education/courses/,4.601458099999999,-74.0661334
+National Autonomous University of Mexico,Mexico,Introducción a la programación con Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,19.3228313,-99.18657739999999
+National Sun Yat-Sen University,Taiwan,DECISION SUPPORT SYSTEMS PROJECT (II),Software Engineering,University,https://kotlinlang.org/education/courses/,22.6283384,120.2647299
+Portland State University,US,"CS 430P/530: Internet, Web, & Cloud Systems",Software Engineering,University,https://kotlinlang.org/education/courses/,45.5111471,-122.6834235
+Tomsk Polytechnic University,Russia,Разработка программного обеспечения для ОС Android / 2020,Android,University,https://kotlinlang.org/education/courses/,56.4653998,84.9501581
+Belarusian State University,Belarus,Разработка приложений под Android,Android,University,https://kotlinlang.org/education/courses/,53.8938988,27.5460609
+University of Guadalajara,Mexico,Programación de Dispositivos Móviles,Software Engineering,University,https://kotlinlang.org/education/courses/,20.6754309,-103.3589544
+Irkutsk State University,Russia,Б1.В.ДВ.05.01 Программирование для дизайнеров,Software Engineering,University,https://kotlinlang.org/education/courses/,52.2766643,104.2777445
+Jawaharlal Nehru Technological University Anantapur (JNTUA),India,(20A35601P) MOBILE APPLICATION DEVELOPMENT FOR IOT,Mobile Development,University,https://kotlinlang.org/education/courses/,14.6513038,77.60633709999999
+Kanazawa University,Japan,Introduction to smartphone application development,Software Engineering,University,https://kotlinlang.org/education/courses/,36.5460981,136.7073747
+National Technical University Kharkiv Polytechnic Institute,Ukraine,Розробка мобільних додатків,Software Engineering,University,https://kotlinlang.org/education/courses/,49.999029,36.248372
+North-Eastern Federal University,Russia,Б1.В.ДВ.05.02 Разработка мобильных приложений,Software Engineering,University,https://kotlinlang.org/education/courses/,62.0199491,129.7094689
+Pontifical Catholic University of Minas Gerais,Brazil,Desenvolvimento Mobile,Mobile Development,University,https://kotlinlang.org/education/courses/,-19.870682,-43.9677359
+Samara University,Russia,Технологии и инструментальные средства разработки программного обеспечения для мобильных устройств,Software Engineering,University,https://kotlinlang.org/education/courses/,53.2120034,50.1774101
+University of Sargodha,Pakistan,CS-4548 Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,32.0736519,72.68033919999999
+Satbayev University,Kazakhstan,CSE1792 Мобильные технологии Android,Android,University,https://kotlinlang.org/education/courses/,43.23644549999999,76.9297115
+Silpakorn University,Thailand,Digital Technology for Designing Interactive Applications,Software Engineering,University,https://kotlinlang.org/education/courses/,13.7532001,100.4900574
+Srinakharinwirot University,Thailand,Android Basics with Kotlin,Android,University,https://kotlinlang.org/education/courses/,13.7456143,100.5648154
+Telkom University,Indonesia,Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,-6.9724099,107.6313945
+Thammasat University,Thailand,CS111 การโปรแกรมเชิงวัตถุ OBJECT-ORIENTED PROGRAMMING,Software Engineering,University,https://kotlinlang.org/education/courses/,13.7569276,100.4898297
+Voronezh State University,Russia,Mobile Application Programming Basics,Mobile Development,University,https://kotlinlang.org/education/courses/,51.65667,39.206036
+Flensburg University of Applied Sciences,Germany,Web / mobile technologies,Mobile Development,University,https://kotlinlang.org/education/courses/,54.7741268,9.4493903
+I. K. Gujral Punjab Technical University,India,Android Development with Kotlin,Android,University,https://kotlinlang.org/education/courses/,31.3534007,75.4586767
+Visvesvaraya Technological University,India,Train the Trainer” ( TTT ) program on Android Development using Kotlin,Android,University,https://kotlinlang.org/education/courses/,15.7777762,74.4634341
+Marwadi University,India,01CT0713 Programming with Application Development (Android),Android,University,https://kotlinlang.org/education/courses/,22.3671446,70.7957291
+Politehnica University Timisoara,Romania,Mobile Systems and Applications,Mobile Development,University,https://kotlinlang.org/education/courses/,45.7536393,21.2251615
+Bern University of Applied Sciences,Switzerland,BTI1002 - Programming 1 with Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,46.9419964,7.440267299999999
+Ammersee-Gymnasium,Germany,Informatik mit Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,47.9633321,11.1032012
+National University of the South,Argentina,Introducción a Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,-38.701727,-62.27019600000001
+National University of La Matanza - Universidad Nacional de La Matanza,Argentina,Tecnicatura en Desarrollo de Aplicaciones Móviles,Software Engineering,University,https://kotlinlang.org/education/courses/,-31.57998468,-58.91436657
+The University of the Antilles - Université des Antilles,Martinique,Licence Professionnelle Métiers de l'informatique - Informatique Embarquée et Mobile,Mobile Development,University,https://kotlinlang.org/education/courses/,14.6197775,-61.093989
+University of Fortaleza,Brazil,Desenvolvimento para plataformas móveis,Software Engineering,University,https://kotlinlang.org/education/courses/,-3.7687753,-38.478061
+University of Applied Sciences and Arts Northwestern Switzerland,Switzerland,Entwicklung mobiler Applikationen,Mobile Development,University,https://kotlinlang.org/education/courses/,47.48188640000001,8.211477799999999
+University of Engineering and Management,India,PCCCS-706A: Mobile Computing,Mobile Development,University,https://kotlinlang.org/education/courses/,26.9124336,75.7872709
+FH Joanneum,Austria,Mobile Software Development,Mobile Development,University,https://kotlinlang.org/education/courses/,47.0693,15.4097888
+IES Luis Vives,Spain,Programming. 1º Degree of Development of Multiplatform Applications,Software Engineering,University,https://kotlinlang.org/education/courses/,40.339475,-3.765687
+Malmö Yrkeshögskola,Sweden,PROGRAMMERARE IPHONE OCH ANDROID,Android,University,https://kotlinlang.org/education/courses/,55.6112395,12.99441
+Champlain College Lennoxville,Сanada,420-510-LE Mobile Applications,Mobile Development,University,https://kotlinlang.org/education/courses/,45.3663191,-71.8448678
+Minneapolis College,US,ITEC 2417 - Android Mobile Programming,Android,University,https://kotlinlang.org/education/courses/,44.9728923,-93.28327139999999
+Pontifical Catholic University of Chile,Chile,Desarrollo de aplicaciones móviles,Software Engineering,University,https://kotlinlang.org/education/courses/,-33.44163505,-70.63924395
+Bucharest University of Economic Studies,Romania,Multi-paradigm programming in Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,44.44762881,26.09785714
+Durban University of Technology,South Africa,Mobile Computing IIA,Mobile Development,University,https://kotlinlang.org/education/courses/,-29.83071128,31.00394108
+Open University of Catalonia,Spain,Mobile app development,Mobile Development,University,https://kotlinlang.org/education/courses/,41.40676475,2.194613783
+American University of Sharjah,United Arab Emirates,CMP 354 –Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,25.31171536,55.4927254
+University of Arkansas,US,CSCE 4623 – Mobile Programming,Mobile Development,University,https://kotlinlang.org/education/courses/,37.33702179,-93.99906472
+Bar-Ilan University,Israel,Application development course,Software Engineering,University,https://kotlinlang.org/education/courses/,32.0694261,34.84303393
+"University of Engineering and Technology, Taxila",Pakistan,Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,33.76665321,72.82320908
+Federation University Australia,Australia,Mobile Development Fundamentals (ITECH2000),Mobile Development,University,https://kotlinlang.org/education/courses/,-37.62627103,143.8910952
+Manchester Metropolitan University,UK,Android Development Essential Training: Your First App with Kotlin,Android,University,https://kotlinlang.org/education/courses/,53.47054006,-2.239321361
+University of Nantes,France,Développement Orienté Objet,Software Engineering,University,https://kotlinlang.org/education/courses/,47.20974366,-1.555957803
+National Cheng Kung University (NCKU),Taiwan,雲端行動應用 - CLOUD AND MOBILE APPLICATIONS,Mobile Development,University,https://kotlinlang.org/education/courses/,22.99700938,120.2168135
+National University of Science and Technology (MISiS),Russia,Программирование на Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,56.29346008,37.653157
+North South University,Bangladesh,CSE 499 Project/Internship/Special Laboratory Project,Software Engineering,University,https://kotlinlang.org/education/courses/,23.81530698,90.4255566
+University of Rovira i Virgili,Spain,MOBILE APPLICATIONS AND SERVICES,Mobile Development,University,https://kotlinlang.org/education/courses/,41.14444708,1.251882718
+Savitribai Phule Pune University,India,CDS-242 Web and Mobile Application,Mobile Development,University,https://kotlinlang.org/education/courses/,18.55540948,73.82619918
+Thapar University,India,Experiential Learning (EL),Software Engineering,University,https://kotlinlang.org/education/courses/,30.35663713,76.36469047
+Tomsk State University,Russia,Разработчик мобильных приложений на платформе Android,Android,University,https://kotlinlang.org/education/courses/,56.4695948,84.94756664
+The University of Aizu,Japan,Android Programming with Kotlin online from OTH Regensburg,Android,University,https://kotlinlang.org/education/courses/,37.52409764,139.937504
+University of Belgrade,Serbia,Programming Languages,Software Engineering,University,https://kotlinlang.org/education/courses/,44.81856593,20.45762348
+ISCTE-University Institute of Lisbon,Portugal,Advanced Programming,Software Engineering,University,https://kotlinlang.org/education/courses/,38.74803216,-9.153388788
+University of Jaén,Spain,74012007 - Technology and Development in Mobile Devices,Mobile Development,University,https://kotlinlang.org/education/courses/,37.78857245,-3.777152431
+Kazan Federal University,Russia,Методы программирования мобильных приложений (Kotlin+Java),Kotlin,University,https://kotlinlang.org/education/courses/,55.79084324,49.12161221
+University of Latvia,Latvia,Objektorientētā programmēšana,Software Engineering,University,https://kotlinlang.org/education/courses/,56.95094435,24.11634538
+University of Ljubljana,Slovenia,63776 PROGRAMMING OF ENERGY-CONSTRAINED DEVICES,Software Engineering,University,https://kotlinlang.org/education/courses/,46.04936503,14.50412301
+Lovely Professional University,India,CSE 224 Fundamentals of Android,Android,University,https://kotlinlang.org/education/courses/,31.25613872,75.70520787
+Mahidol University,Thailand,EGCI 428 Mobile Device Programming,Mobile Development,University,https://kotlinlang.org/education/courses/,13.8007163,100.3245974
+Masaryk University,Czech Republic,PV256 Introduction to Development for Android,Android,University,https://kotlinlang.org/education/courses/,49.1987872,16.60541159
+Old Dominion University,US,CS 410 Professional Workforce Development,Software Engineering,University,https://kotlinlang.org/education/courses/,36.88551904,-76.30591079
+University of South Bohemia in České Budějovice,Czech Republic,SMART DEVICE SYSTEMS,Software Engineering,University,https://kotlinlang.org/education/courses/,48.9792759,14.448264
+Al-Farabi Kazakh National University,Kazakhstan,Object-oriented programming 4,Software Engineering,University,https://kotlinlang.org/education/courses/,43.22541653,76.92264487
+Amity University,India,KOTLIN,Kotlin,University,https://kotlinlang.org/education/courses/,28.74638533,77.33310857
+Don State Technical University,Russia,Введение в разработку приложений для ОС Android,Android,University,https://kotlinlang.org/education/courses/,47.23735605,39.71203625
+Ilia State University,Georgia,Mobile Programming in Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,41.79905243,44.75440724
+Oakland University,US,Cross Platform Mobile and Cloud Development,Mobile Development,University,https://kotlinlang.org/education/courses/,42.6680675,-83.20828835
+Palacký University Olomouc,Czech Republic,Tvorba mobilních aplikací,Software Engineering,University,https://kotlinlang.org/education/courses/,49.59557281,17.2600152
+Pavol Jozef Šafárik University in Košice,Slovakia,ÚINF/VMA1/21 - Vývoj mobilných aplikácií,Software Engineering,University,https://kotlinlang.org/education/courses/,48.71979659,21.25113863
+Reichman University,Israel,3695 Native Android Development with Kotlin,Android,University,https://kotlinlang.org/education/courses/,32.17598334,34.83776647
+University of Westminster,UK,5COSCW023W - Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,51.51711092,-0.1432219183
+Altai State University,Russia,Разработка кроссплатформенных мобильных приложений,Software Engineering,University,https://kotlinlang.org/education/courses/,53.34836879,83.77579853
+BINUS University,Indonesia,MOBILE APPLICATION PROGRAMMING,Mobile Development,University,https://kotlinlang.org/education/courses/,-5.239788306,106.782255
+Chung Yuan Christian University,Taiwan,Android Kotlin智慧APP開發班,Android,University,https://kotlinlang.org/education/courses/,24.9576064,121.2407764
+Cochin University of Science and Technology,India,KOTLIN PROGRAMMING,Kotlin,University,https://kotlinlang.org/education/courses/,10.04326378,76.32434424
+IPB University,Indonesia,Mobile apps development,Mobile Development,University,https://kotlinlang.org/education/courses/,-5.680055001,106.6354325
+Irkutsk National Research Technical University,Russia,Мобильная разработка на Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,52.26270853,104.2614115
+Istanbul Medipol University,Turkey,BPR1213184 KOTLIN PROGRAMMING,Kotlin,University,https://kotlinlang.org/education/courses/,41.09064313,29.0888647
+Universiti Malaysia Sarawak (UNIMAS),Malaysia,Samarahan App Challenge 3.0,Software Engineering,University,https://kotlinlang.org/education/courses/,1.466915456,110.4252016
+Pontifical Catholic University of Paraná,Brazil,Desenvolvimento de Aplicativos Móveis,Software Engineering,University,https://kotlinlang.org/education/courses/,-25.45166344,-49.25106679
+Silesian University of Technology,Poland,Inżynieria aplikacji mobilnych i baz danych,Software Engineering,University,https://kotlinlang.org/education/courses/,50.29130053,18.67464155
+Universiti Teknikal Malaysia Melaka,Malaysia,MSMD 5113 Native Mobile Development I,Mobile Development,University,https://kotlinlang.org/education/courses/,2.315296296,102.3206879
+Tokyo University of Science,Japan,Introduction to multilingual programming for AI and IoT utilization,Software Engineering,University,https://kotlinlang.org/education/courses/,36.88356664,139.389018
+Tunghai University,Taiwan,Mobile Device Development and Applications,Mobile Development,University,https://kotlinlang.org/education/courses/,24.18286039,120.6025045
+Ural Federal University,Russia,1156435 Язык программирования Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,56.84044781,60.61605738
+Veltech University,India,1151CS201 Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,13.17779956,80.09813161
+"Vignan’s Foundation for Science, Technology and Research",India,Android Development with Kotlin,Android,University,https://kotlinlang.org/education/courses/,16.23357031,80.55091862
+Başkent University,Turkey,ANDROID GAME PROGRAMMING,Android,University,https://kotlinlang.org/education/courses/,39.88784882,32.65434504
+University of Colima,Mexico,Bases de datos en Android con Kotlin,Android,University,https://kotlinlang.org/education/courses/,19.24783842,-103.6974358
+Federal University of Piauí,Brazil,APIs de Desenvolvimento para Dispositivos Móveis,Software Engineering,University,https://kotlinlang.org/education/courses/,-4.808662814,-42.80966773
+Lucian Blaga University of Sibiu,Romania,Informatica mobila,Software Engineering,University,https://kotlinlang.org/education/courses/,45.79120143,24.14558509
+University of Montenegro,Montenegro,PROGRAMIRANJE NAPREDNI KURS,Software Engineering,University,https://kotlinlang.org/education/courses/,42.44197427,19.24258323
+Mustansiriyah University,Iraq,Mobile Development Introduction to Android,Android,University,https://kotlinlang.org/education/courses/,33.36745166,44.4035716
+Northern (Arctic) Federal University named after M.V. Lomonosov,Russia,Практическое использование Kotlin в Android-разработке,Android,University,https://kotlinlang.org/education/courses/,66.14218175,40.90094794
+Pedagogical and Technological University of Colombia,Colombia,Programación Android con Kotlin,Android,University,https://kotlinlang.org/education/courses/,5.563627598,-73.35803789
+Perm State University,Russia,Разработка приложений для Android (начальный уровень),Android,University,https://kotlinlang.org/education/courses/,58.00866821,56.18776088
+Universidad de La Sabana - University of La Sabana,Colombia,PROGRAMACIÓN ANDROID CON KOTLIN Y JAVA,Android,University,https://kotlinlang.org/education/courses/,4.861760429,-74.03254753
+Technical University of Cluj-Napoca,Romania,Comunicații Mobile,Mobile Development,University,https://kotlinlang.org/education/courses/,46.7693565,23.58568634
+Federal University of Technology – Paraná,Brazil,CURSO DE ESPECIALIZAÇÃO EM PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS,Software Engineering,University,https://kotlinlang.org/education/courses/,-25.44332965,-49.35349651
+VSB - Technical University of Ostrava,Czech Republic,Design of Applications for Mobile Devices II,Mobile Development,University,https://kotlinlang.org/education/courses/,49.83288942,18.16235302
+Wrocław University of Science and Technology,Poland,Application Programming: Mobile Computing,Mobile Development,University,https://kotlinlang.org/education/courses/,51.107821,17.06249032
+Amrita Vishwa Vidyapeetham,India,23CSE460 FEATURES IN MODERN PROGRAMMING LANGUAGES,Software Engineering,University,https://kotlinlang.org/education/courses/,10.90287926,76.90067081
+Università del Piemonte Orientale - UPO,Italy,Applicazioni mobili,Software Engineering,University,https://kotlinlang.org/education/courses/,45.32774072,8.424520481
+Institut Tecnològic de Barcelona,Spain,M03 - Programming,Software Engineering,University,https://kotlinlang.org/education/courses/,41.45357525,2.186268539
+Ivy Tech Community College,US,SDEV 264 - Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,39.95384826,-86.13674919
+Baku Higher Oil School,Azerbaijan,Mobile Development and Security,Mobile Development,University,https://kotlinlang.org/education/courses/,40.38250277,49.87260473
+Business Academy Aarhus,Denmark,Kotlin programming,Kotlin,University,https://kotlinlang.org/education/courses/,56.11998282,10.15897346
+George Brown College,Canada,Mobile Application Development and Strategy,Mobile Development,University,https://kotlinlang.org/education/courses/,43.67728424,-79.4107284
+Gujarat Technological University,India,Mobile Computing using Android,Android,University,https://kotlinlang.org/education/courses/,23.10758288,72.59404883
+Astana International University,Kazakhstan,Kotlin Start вместе с Jusan Singularity,Kotlin,University,https://kotlinlang.org/education/courses/,51.14479607,71.42263321
+Avans University of Applied Sciences - Avans Hogeschool,The Netherlands,Full stack development met Android,Android,University,https://kotlinlang.org/education/courses/,51.58475,4.79787
+Galgotias University,India,Android App Development Using Kotlin,Android,University,https://kotlinlang.org/education/courses/,28.36992964,77.54178669
+Chandigarh University,India,Android Development with Kotlin,Android,University,https://kotlinlang.org/education/courses/,30.77132339,76.57834532
+CVR College Of Engineering,India,Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,17.76959621,78.49855577
+Shivaji University,India,Android Development with Kotlin,Android,University,https://kotlinlang.org/education/courses/,16.67811165,74.25558133
+Manav Rachna International Institute of Research and Studies - MRIIRS,India,BCS-DS-577: Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,28.45060447,77.28370448
+GIET University,India,Android App Development Using Kotlin,Android,University,https://kotlinlang.org/education/courses/,19.39797965,83.90424399
+Bennett University,India,Android Development with Kotlin (CSET492),Android,University,https://kotlinlang.org/education/courses/,28.45081627,77.58421925
+Grand View University in Des Moines,US,CPSC 242 Computer Science II,Software Engineering,University,https://kotlinlang.org/education/courses/,41.6202382,-93.6058123
+Catholic University Of Colombia,Colombia,CT10126 Programación para Dispositivos Android,Android,University,https://kotlinlang.org/education/courses/,4.634201277,-74.06663640502144
+Universidad Ean,Colombia,Desarrollo Móvil,Software Engineering,University,https://kotlinlang.org/education/courses/,4.664164338,-74.0549694269522
+Sivas Cumhuriyet University,Turkey,Mobile Programming,Mobile Development,University,https://kotlinlang.org/education/courses/,39.70892677,37.020304847684415
+Charotar University of Science and Technology - CHARUSAT,India,CE381: MOBILE APPLICATION DEVELOPMENT,Mobile Development,University,https://kotlinlang.org/education/courses/,22.59957539,72.82043987374627
+NIE Institute of Technology - The National Institute of Engineering,India,18CSMP68 - Jetpack Compose for Android Developers,Android,University,https://kotlinlang.org/education/courses/,12.37147346,76.58494258150306
+Suresh Gyan Vihar University,India,CA 216 Android Development (Java/Kotlin),Android,University,https://kotlinlang.org/education/courses/,26.81023281,75.86247691076034
+TH Köln,Germany,Algorithmen und Programmierung II,Software Engineering,University,https://kotlinlang.org/education/courses/,50.92258627,6.967425454902938
+Manav Rachna University,India,Mobile Computing with Android (CSH319) T & P,Android,University,https://kotlinlang.org/education/courses/,28.85469489,77.26330090113763
+Vidyavardhaka College of Engineering,India,22CS47: Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,12.33677461,76.61873426615823
+Swarrnim Startup & Innovation University,India,Advance Mobile App Development,Mobile Development,University,https://kotlinlang.org/education/courses/,23.23579486,72.54208134152324
+KAZGUU University Higher School of Economics,Kazakhstan,Mobile Development,Mobile Development,University,https://kotlinlang.org/education/courses/,51.14945101,71.37953666993862
+Central Queensland University,Australia,COIT13234 Mobile Software Development,Mobile Development,University,https://kotlinlang.org/education/courses/,-23.3732,150.5105
+The University of Jordan,Jordan,Android Kotlin Development Fundamentals,Android,University,https://kotlinlang.org/education/courses/,31.9539,35.9106
+Lviv Polytechnic National University,Ukraine,Programming for Mobile Platforms,Mobile Development,University,https://kotlinlang.org/education/courses/,49.8397,24.0297
+University of Palermo,Italy,WEB AND MOBILE PROGRAMMING,Mobile Development,University,https://kotlinlang.org/education/courses/,38.1157,13.3615
+Polytechnic University of Catalonia - Universitat Politècnica de Catalunya - UPC,Spain,Programación de Teléfonos y Dispositivos Móviles Autónomos,Software Engineering,University,https://kotlinlang.org/education/courses/,41.3888,2.159
+Texas Tech University,US,Android Developer,Android,University,https://kotlinlang.org/education/courses/,33.5779,-101.8552
+University of Chile,Chile,Desarrollo de Aplicaciones Móviles,Software Engineering,University,https://kotlinlang.org/education/courses/,-33.4489,-70.6693
+Chonbuk National University - Jeonbuk National University,South Korea,Kotlin-based Android app development training,Android,University,https://kotlinlang.org/education/courses/,35.8208,127.1537
+Montana State University,US,CSCI 494-002 Industry Methods,Software Engineering,University,https://kotlinlang.org/education/courses/,45.677,-111.0429
+Christ University Bengaluru,India,RM644E3 Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,12.9352,77.6241
+Kharkiv Aviation Institute,Ukraine,Програмування під Android та iOS,Android,University,https://kotlinlang.org/education/courses/,49.9921,36.2515
+National Institute of Technology Srinagar,India,Android Application Development - Kotlin,Android,University,https://kotlinlang.org/education/courses/,34.0914,74.8462
+National Technical University Kharkiv Polytechnic Institute,Ukraine,Мова програмування Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,49.9935,36.2334
+Saint Petersburg Electrotechnical University (LETI),Russia,Программирование на языке Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,59.9343,30.3351
+Wrocław University of Science and Technology,Poland,INZ004470 Programowanie w chmurze,Software Engineering,University,https://kotlinlang.org/education/courses/,51.1079,17.0385
+University of Caldas,Colombia,De regreso a la programación desde las perspectivas,Software Engineering,University,https://kotlinlang.org/education/courses/,5.069,-75.5173
+Goa University,India,CSA-606 Mobile App Development,Mobile Development,University,https://kotlinlang.org/education/courses/,15.516,73.8239
+Istanbul Aydın University,Turkey,UYG201  Kotlin Android Uygulama Geliştirme,Android,University,https://kotlinlang.org/education/courses/,41.0257,28.9744
+Nizhny Novgorod State Technical University,Russia,Разработка приложений на Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,56.3287,44.002
+National University of Science and Technology Politehnica Bucharest,Romania,Object Oriented Programming,Software Engineering,University,https://kotlinlang.org/education/courses/,44.4396,26.0976
+REVA University,India,Android Application Development using Kotlin,Android,University,https://kotlinlang.org/education/courses/,13.0368,77.6007
+Université Gustave Eiffel,France,OUAP-4331 Android development for Smartphones with Kotlin,Android,University,https://kotlinlang.org/education/courses/,48.8513,2.3657
+Bunker Hill Community College,USA,CSC-244 Android Development With Kotlin,Android,University,https://kotlinlang.org/education/courses/,42.3329,-71.0657
+Northern Michigan University,USA,CS 345-01-23W: Android Programming,Android,University,https://kotlinlang.org/education/courses/,46.5902,-87.4002
+University for Technology and Design | Harbour.Space Barcelona,Spain,CS213 Mobile Development,Mobile Development,University,https://kotlinlang.org/education/courses/,41.3851,2.1734
+Western Colorado University,USA,CS 310: Programming Projects in Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,38.5431,-106.933
+California Institute of Arts & Technology - CIAT,USA,MAP 300A – Android App Development with Kotlin,Android,University,https://kotlinlang.org/education/courses/,32.678,-117.0972
+George Brown College,Canada,Mobile Application Development and Strategy Program (Postgraduate) T440,Mobile Development,University,https://kotlinlang.org/education/courses/,43.6532,-79.3832
+University Centre Peterborough,UK,Mobile app development with Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,52.5734,-0.2417
+Gujarat Technological University,India,Mobile Computing using Android,Android,University,https://kotlinlang.org/education/courses/,23.0225,72.5714
+RIT Kosovo,Kosovo,KODE Project,Software Engineering,University,https://kotlinlang.org/education/courses/,42.6629,21.1655
+Knyagininsky Universitet,Russia,Разработка мобильных приложений,Software Engineering,University,https://kotlinlang.org/education/courses/,52.1351,43.796
+Appalachian State University,USA,CSCI 4540: Mobile Computing,Mobile Development,University,https://kotlinlang.org/education/courses/,36.2134,-81.6746
+University of Novi Sad,Serbia,Programming in Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,45.2671,19.8335
+Amsterdam University of Applied Sciences (AUAS),The Netherlands,MOBILE DEVELOPMENT,Mobile Development,University,https://kotlinlang.org/education/courses/,52.3784,4.9009
+UWE Bristol,UK,Kotlin and Android,Android,University,https://kotlinlang.org/education/courses/,51.4545,-2.5879
+Teknologisk Institut,Denmark,Kotlin Development,Kotlin,University,https://kotlinlang.org/education/courses/,55.6483,12.2354
+University of the West of Scotland,UK,COMP08068 Programming for Mobile Devices,Mobile Development,University,https://kotlinlang.org/education/courses/,55.8724,-4.3038
+"Birla Institute of Technology and Science, Pilani",India,Practice School - I,Software Engineering,University,https://kotlinlang.org/education/courses/,28.36396,75.58853
+Florida Institute of Technology,US,CSE 4250 Programming Language Concepts,Software Engineering,University,https://kotlinlang.org/education/courses/,28.0648,-80.6205
+University of Alicante,Spain,Desarrollo de Software para Dispositivos Móviles,Software Engineering,University,https://kotlinlang.org/education/courses/,38.3845,-0.5134
+Annamalai University,India,Kotlin for Android App Development,Android,University,https://kotlinlang.org/education/courses/,11.3962,79.6937
+Hasanuddin University,Indonesia,Kotlin Language for Java Developers,Kotlin,University,https://kotlinlang.org/education/courses/,-5.1375,119.4221
+MIREA - Russian Technological University,Russia,Разработка мобильных приложений,Software Engineering,University,https://kotlinlang.org/education/courses/,55.7512,37.6175
+Obafemi Awolowo University,Nigeria,Kotlin Language for Java Developers,Kotlin,University,https://kotlinlang.org/education/courses/,7.5194,4.5276
+University of Pannonia,Hungary,Kotlin programming (VEMISAB332K),Kotlin,University,https://kotlinlang.org/education/courses/,47.0926,17.9093
+ATMIYA University,India,20MCACC302 - Mobile App Development using Android in Kotlin,Android,University,https://kotlinlang.org/education/courses/,22.2961,70.7979
+Ostbayerische Technische Hochschule Regensburg (OTH Regensburg),Germany,Android Programming with Kotlin (KAPK),Android,University,https://kotlinlang.org/education/courses/,49.0134,12.1016
+University of Dayton,US,CPS 452: Emerging Programming Languages,Software Engineering,University,https://kotlinlang.org/education/courses/,39.7396,-84.1791
+East Carolina University,US,Mobile Development,Mobile Development,University,https://kotlinlang.org/education/courses/,35.6058,-77.3669
+Universidad Tecnológica Nacional (UTN),Argentina,Introducción a la programación en Android con Kotlin,Android,University,https://kotlinlang.org/education/courses/,-34.6118,-58.4173
+Montgomery College,US,CMSC234 Mobile Game & App Programming,Mobile Development,University,https://kotlinlang.org/education/courses/,39.1732,-77.2717
+University of Warsaw,Poland,Programming in Kotlin,Kotlin,University,https://kotlinlang.org/education/courses/,52.24048095,21.01863338
+University of Leeds,UK,COMP2850 Software Engineering,Software Engineering,University,https://kotlinlang.org/education/courses/,53.80814849,-1.553301716
+Instituto Federal de Santa Catarina (IFSC),Brazil,MOV786205 - Programação para Aplicativos Móveis,Software Engineering,University,https://kotlinlang.org/education/courses/,-27.60823235,-48.63257895
+University of British Columbia,Canada,CPEN 321: Software Engineering,Software Engineering,University,https://kotlinlang.org/education/courses/,49.26102729,-123.2474613
+University of Bridgeport,USA,CPSC 301 - Programming Languages,Software Engineering,University,https://kotlinlang.org/education/courses/,41.16496661,-73.19063205
+Lycée Gustave Eiffel,France,Android development,Android,University,https://kotlinlang.org/education/courses/,44.82887839,-0.5645506747917626
+University of Extremadura,Spain,Desarrollo de aplicaciones para dispositivos móviles,Software Engineering,University,https://kotlinlang.org/education/courses/,38.8852401,-7.007516846
+University of Cauca,Colombia,Mobile Application Development,Mobile Development,University,https://kotlinlang.org/education/courses/,2.44119806,-76.60484329
